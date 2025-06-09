@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshikak7
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development and UI/UX Design.
 - 🌱 I’m currently learning frontend development
 - 📫 How to reach me harshikakolekar184@gmail.com
 - 😄 Pronouns: she/her
