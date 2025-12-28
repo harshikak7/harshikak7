@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @harshikak7
-- 👀 I’m interested in web development and UI/UX Design.
-- 🌱 I’m currently learning frontend development
-- 📫 How to reach me harshikakolekar184@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i love watching kdramas and reading fiction
-
-<!---
-harshikak7/harshikak7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Harshika a UI/UX Designer. I enjoy working on design problems where things aren’t straightforward and users might already feel a little frustrated. 
+I also enjoy working with code, which helps me design more realistically. When I’m not designing, you’ll usually find me reading, exploring ideas, or working on something creative just for fun.
